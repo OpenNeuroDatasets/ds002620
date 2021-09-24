@@ -1,7 +1,15 @@
 {
-   "Name": "Emotion regulation in the Ageing Brain, University of Reading, BBSRC",
- "License": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/)",
-   "BIDSVersion": "1.0.2",
-"ReferenceAandLinks": "Longitudinal change in executive function is associated with impaired top-down frontolimbic regulation during reappraisal in older adults. bioRxiv 867689; doi: https://doi.org/10.1101/867689",
-"Authors": ["William K. Lloyd", "Jayne Morriss", "Birthe Macdonald", "Karin Joanknecht", "Julie Nihouarn", "Carien M. van Reekum"]
+    "Name": "Emotion regulation in the Ageing Brain, University of Reading, BBSRC",
+    "License": "CC0",
+    "BIDSVersion": "1.0.2",
+    "ReferenceAandLinks": "Longitudinal change in executive function is associated with impaired top-down frontolimbic regulation during reappraisal in older adults. bioRxiv 867689; doi: https://doi.org/10.1101/867689",
+    "Authors": [
+        "William K. Lloyd",
+        "Jayne Morriss",
+        "Birthe Macdonald",
+        "Karin Joanknecht",
+        "Julie Nihouarn",
+        "Carien M. van Reekum"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002620.v1.0.0"
 }

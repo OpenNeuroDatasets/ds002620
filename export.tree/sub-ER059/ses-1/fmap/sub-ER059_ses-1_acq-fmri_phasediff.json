@@ -1,0 +1,22 @@
+{
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "TrioTim",
+  "ProcedureStepDescription": "Studies_bbsrc_age",
+  "ProtocolName": "fmri_field_mapping",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "M",
+    "ND"
+  ],
+  "AcquisitionDateTime": "2014-02-25T13:01:29.492188",
+  "MagneticFieldStrength": 3,
+  "FlipAngle": 60,
+  "EchoTime": 0.00492,
+  "RepetitionTime": 0.488,
+  "PhaseEncodingDirection": "j",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20170207",
+  "EchoTime1": "0.00492",
+  "EchoTime2": "0.00738"
+}
